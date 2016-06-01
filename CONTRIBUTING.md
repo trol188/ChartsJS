@@ -11,4 +11,5 @@ New contributions to the library are welcome, just a couple of guidelines:
  * Please avoid committing in the build Chart.js & Chart.min.js file, as it causes conflicts when merging.
 
  Marcelo.
+ Solo.
  
